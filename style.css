@@ -1,0 +1,26 @@
+* {
+    color:aquamarine
+}
+
+h1 {
+    color:navy;
+}
+
+p {
+    color:gold;
+}
+
+button {
+    color:red;
+    background-color: green;
+}
+
+body {
+    background-color:black;
+}
+#headingone {
+    color:blueviolet
+}
+.myclass {
+    color:aqua
+}
