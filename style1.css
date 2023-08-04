@@ -1,4 +1,4 @@
-p{
+/* p{
     text-align: right;
     text-align: center;
     text-align: left;
@@ -12,7 +12,25 @@ h1 {
     text-decoration: line-through;
 }
 
-a {
+a{
     text-decoration: none;
+} */
 
+p{
+    text-align:end ;
+}
+a{
+    text-decoration: none;
+}
+#h1{
+    font-weight: 150;
+}
+#h2{
+    font-weight: 250;
+}
+#h3{
+    font-weight: 400;
+}
+#h4{
+    font-weight:900 ;
 }
