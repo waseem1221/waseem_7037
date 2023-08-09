@@ -1,0 +1,42 @@
+/* div{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-evenly;
+}
+a {
+    text-decoration: none;
+    color: black;
+    background-color: chartreuse;
+}
+li {
+    list-style-type: none;
+    display: inline;
+} */
+.navbar  {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+li {
+    list-style: none;
+    background-color: chartreuse;
+}
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.inner {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
